@@ -1,3 +1,5 @@
+![bcapp](https://github.com/BenjaminEshun/BreastCancerDetector/assets/73724336/a3d8466b-1bd9-469d-a543-3c1bc3075af5)
+
 # Project Description: Breast Cancer Detection using Image Classification
 
 This project focuses on the detection of breast cancer through an image classification task. Leveraging the "BreakHis 400X" dataset sourced from Kaggle, the project's objective is to accurately differentiate between benign and malignant breast tumors based on microscopic biopsy images.
