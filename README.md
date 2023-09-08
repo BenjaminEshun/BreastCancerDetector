@@ -11,3 +11,5 @@ In addition to the VGG 16 base model, a custom dense layer is incorporated into 
 Ultimately, the project's aim is to create a reliable and accurate tool for assisting medical professionals in the early detection and diagnosis of breast cancer. By harnessing the power of deep learning and image classification techniques, this endeavor contributes to the ongoing efforts to enhance healthcare diagnostics and outcomes.
 
 Feel free to modify and expand upon this description according to your preferences and additional project details.
+
+Try the demo using this link: [Breast Cancer Detector App]([https://pages.github.com/](https://breastcancerdetector-jabmtxp23zi7yxnchmajxd.streamlit.app/)https://breastcancerdetector-jabmtxp23zi7yxnchmajxd.streamlit.app/).
