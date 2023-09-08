@@ -12,4 +12,4 @@ Ultimately, the project's aim is to create a reliable and accurate tool for assi
 
 Feel free to modify and expand upon this description according to your preferences and additional project details.
 
-Try the demo using this link: [Breast Cancer Detector App]([https://pages.github.com/](https://breastcancerdetector-jabmtxp23zi7yxnchmajxd.streamlit.app/)https://breastcancerdetector-jabmtxp23zi7yxnchmajxd.streamlit.app/).
+Try the demo using this link: [Breast Cancer Detector App](https://breastcancerdetector-jabmtxp23zi7yxnchmajxd.streamlit.app/).
